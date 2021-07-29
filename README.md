@@ -1,16 +1,9 @@
-# documentencryptionplus
 
-A new Flutter project.
+##这是一个基于NDK+Flutter+Kotlin实现的一个加密文件的App
+[Screenshot_2021-07-29-17-25-28-989_com example do](https://user-images.githubusercontent.com/63635083/127467653-f28fc050-6003-46b8-a1e3-b7e0f2e0a42a.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+内部实现了一个简单的加密算法
+界面由Flutter编写
+加密和文件读写由C++实现
+点击按钮通过kotlin调用系统文件管理器获取路径
+再点击加密按钮通过kotlin调用C++
