@@ -1,0 +1,6 @@
+# ninja log v5
+1	228	649238909	CMakeFiles/native-lib.dir/native-lib.cpp.o	22ad99c2c68e197a
+229	355	649238909	C:/Users/29799/Desktop/administrator_doc/project/documentencryptionplus/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	2290d1f73600db7b
+3	139	649240259	C:/Users/29799/Desktop/administrator_doc/project/documentencryptionplus/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	2290d1f73600db7b
+3	749	649241365	CMakeFiles/native-lib.dir/native-lib.cpp.o	22ad99c2c68e197a
+753	1594	649241367	C:/Users/29799/Desktop/administrator_doc/project/documentencryptionplus/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	2290d1f73600db7b
